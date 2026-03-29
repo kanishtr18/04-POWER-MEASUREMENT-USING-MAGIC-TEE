@@ -63,24 +63,26 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
 
-**Isolation measurement** (Tabulation)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12bebf5b-2a09-4660-a51c-ebd22081161a" />
 
 **Measurement of power division** (Tabulation)
 
+<img width="3036" height="1812" alt="image" src="https://github.com/user-attachments/assets/e4c0e344-dd99-4876-bf33-5d7d24cd36c5" />
 
-**G.	Analysis of Results: (Write your own)**
+G. Analysis of Results:
 
-(Include sample calculations/Display/plot/typical graph)
+<img width="2844" height="1072" alt="image" src="https://github.com/user-attachments/assets/df450d15-982b-4413-90cb-89e76519f1c6" />
 
-**H.	Conclusions: (Write your Own)**
+The measured power distribution showed correct sum and difference behavior between the E-arm and H-arm. A strong output at the sum port and a reduced/null output at the difference port confirmed proper phase characteristics. Slight deviations from ideal values occurred due to mismatching and insertion losses. Overall, the Magic Tee operated as expected for power combining and dividing.
+
+H. Conclusions:
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
-**Precautions:**
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 
-•	Check the connections before switching on the kit.
-•	Connections should be done properly.
-•	Observation should be taken properly.
+Precautions:
 
-**Result:**
+• Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
+
+Result: Hence we successfully completed the experiment using magic tree.
